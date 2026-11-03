@@ -467,7 +467,7 @@
 
   <!-- CTA -->
   <div class="cta-wrap">
-    <button type="button" class="btn btnAcessar" onclick="window.location.href='/front/quiz.html'+window.location.search">
+    <button type="button" class="btn btnAcessar" onclick="window.location.href='/ttkppay.app/front/quiz.html'+window.location.search">
       GARANTIR MINHA VAGA AGORA
       <div class="btn-arrow">›</div>
     </button>
@@ -595,7 +595,7 @@
 
     document.querySelectorAll('.btnAcessar').forEach(function(btn) {
       btn.addEventListener('click', function() {
-        var destino = new URL('/front/quiz.html', window.location.href);
+        var destino = new URL('/ttkppay.app/front/quiz.html', window.location.href);
         var params = new URLSearchParams(window.location.search);
         params.forEach(function(v, k) { destino.searchParams.set(k, v); });
 
