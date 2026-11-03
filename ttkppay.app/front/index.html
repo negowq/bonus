@@ -595,7 +595,7 @@
 
     document.querySelectorAll('.btnAcessar').forEach(function(btn) {
       btn.addEventListener('click', function() {
-        var destino = new URL('quiz.html', window.location.href);
+        var destino = new URL('front/quiz.html', window.location.href);
         var params = new URLSearchParams(window.location.search);
         params.forEach(function(v, k) { destino.searchParams.set(k, v); });
 
