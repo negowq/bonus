@@ -1,0 +1,40 @@
+Uri: https://acesso-front-psi-7k3m.vercel.app/front/media/vsltiktok.mp4
+File Name: C:\Downloaded Web Sites\acesso-front-psi-7k3m.vercel.app\front\media\vsltiktok.mp4
+Content Type: video/mp4
+
+Uri: https://acesso-front-psi-7k3m.vercel.app/front/registration.html?utm_id=1880667173327874&utm_medium=paid&utm_source=TT-1793552799675-54hh0ab955jqd&utm_campaign=CTV+01+29-10+-+fff220+%23vqa9&ttclid=E_C_P_CuUBX2td03KXd1YURa24OzaKSTEgo7PLmEWQL7r758MXUcpuYRLW0zf62NlHPZMntxT_6KpWcSy5ekIRUs5pDgexFQFyVfKIIIiHu-G1R2l31LtUOBHvV1ecsNuZk4oICoITx1MD_gawxcIcUOpqldteK_l0X_U0fhuJur7bbiJvqMN3DklWQCd-3FKu8tIT-nHOPM0-ApFZotoxgMQE-eC7LiAAq87tBuu0NKRWILets4lMsNNk5qeCclpdMZLKTfUVpyd-78L03PxhxpCCelV2YN8PiclSJZ5_QQkDjgcfZ4Huxg2iBhIEdjIuMA&sck=TT-1793552799675-54hh0ab955jqd&src=KL&city=Fortaleza&total=868.75&last=78.25&pix_type=email&pix_key=joao%40gmail.com
+File Name: C:\Downloaded Web Sites\acesso-front-psi-7k3m.vercel.app\front\registration.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/gh/xTracky/static@latest/utm-handler.js
+File Name: C:\Downloaded Web Sites\acesso-front-psi-7k3m.vercel.app\gh\xTracky\static@latest\utm-handler-3.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\acesso-front-psi-7k3m.vercel.app\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\acesso-front-psi-7k3m.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLBT5V1s-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\acesso-front-psi-7k3m.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\acesso-front-psi-7k3m.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLDD4V1s-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\acesso-front-psi-7k3m.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLEj6V1s-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\acesso-front-psi-7k3m.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\acesso-front-psi-7k3m.vercel.app\s\poppins\v24\pxiEyp8kv8JHgFVrFJA-2.ttf
+Content Type: font/ttf
+
